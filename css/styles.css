@@ -36,3 +36,11 @@ body, html{
     margin-bottom: 1rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.prevBtn, .nextBtn{
+    font-size: 1.3rem;
+    outline: none;
+    padding: 0.7rem 1.5rem;
+    cursor: pointer;
+    margin: 0 2rem;
+}
